@@ -6,3 +6,6 @@
 
 - [hw1](./hw1)
 
+# Quizs
+
+- [quiz1](./quiz1)
