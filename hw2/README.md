@@ -36,6 +36,14 @@ In this homework, just choose the theme you like.
 
 If you have concern about functionality, you could take a look of Windows calculator.
 
+# Submission
+
+If your student id is 0115678, then your file name should be 0115678.zip
+
+We don't need another branch in this homework, just leave master branch.
+
+Your website entry should be `index.html`.
+
 # Example Inputs
 
 Press buttons by order 
