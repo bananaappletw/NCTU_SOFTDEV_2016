@@ -21,7 +21,7 @@ In this homework, just choose the theme you like.
 
 	- ``Mod`` [10]
 
-- Conversion between different numeral system [20]
+- Conversion and able to input between different numeral system [20]
 
 	- Hexadecimal [5]
 	- Decimal [5]
