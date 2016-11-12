@@ -13,9 +13,9 @@ In this homework, just choose the theme you like.
 - Basic Arithmetic [40]
 
 	- ``+`` [10]
-    - ``-`` [10]
-    - ``*`` [10]
-    - ``%`` [10]
+	- ``-`` [10]
+	- ``*`` [10]
+	- ``%`` [10]
 
 - Further Arithmetic [10]
 
@@ -46,10 +46,48 @@ Your website entry should be `index.html`.
 
 # Example Inputs
 
-Press buttons by order 
+By default, numeral system is decimal.
 
+Press buttons by order.
+
+## Negative Number [10]
+
+- `-1+5` = 4
+- `-1*6` = -6
+- `-2*6` = -12
+- `-6/3` = -2
+
+## Basic Arithmetic [40]
+
+- `7*2-3` = 11
 - `1+2*3` = 7
-- `1+4-2` = 3
-- `2*5+3*4` = 22
+- `5-6/2` = 2
+- `6/3+2` = 4
+
+## Further Arithmetic [10]
+
 - `5*3 Mod 4` = 3
-- `5*6/3` = 10
+- `56 Mod 13` = 3
+
+## Conversion and able to input between different numeral system [20]
+
+- `10`
+change to hex numeral
+`+B` = 15 (hex)
+- `26`
+In conversion list should display (No need to be exactly the same leading zero is acceptable)
+HEX: 1A
+DEC: 26
+OCT: 32
+BIN: 11010
+- `6`
+change to oct numeral
+`+7` = 15 (oct)
+- `5`
+change to oct numeral
+`+1111` = 10100 (bin)
+
+## Operator Precedence [10]
+
+- `2*5+3*4` = 22
+- `6-2*5` = -4
