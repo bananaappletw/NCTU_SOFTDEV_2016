@@ -67,7 +67,7 @@ Press buttons by order.
 ## Further Arithmetic [10]
 
 - `5*3 Mod 4` = 3
-- `56 Mod 13` = 3
+- `56 Mod 13` = 4
 
 ## Conversion and able to input between different numeral system [20]
 
