@@ -90,7 +90,7 @@ BIN: 00011010
 change to oct numeral
 `+7` = 15 (oct)
 - `5`
-change to oct numeral
+change to bin numeral
 `+1111` = 10100 (bin)
 
 ## Operator Precedence [10]
