@@ -6,6 +6,8 @@ In previous homework, we implement two different color themes.
 
 In this homework, just choose the theme you like.
 
+If you have any concern about spec, you could refer Windows10's Programmer calculator.
+
 # Grading policy
 
 - Negative Number [10]
@@ -28,6 +30,12 @@ In this homework, just choose the theme you like.
 	- Octal [5]
 	- Binary [5]
 
+The default numeral is decimal, you should be able to switch numeral by click text like HEX,DEC,OCT,BIN.
+
+The number is 2 byte WORD.
+
+If the number is -1, you should display FFFF in the hex.
+
 - Operator Precedence [10]
 
 - Backspace ``<-`` [5]
@@ -45,8 +53,6 @@ We don't need another branch in this homework, just leave master branch.
 Your website entry should be `index.html`.
 
 # Example Inputs
-
-By default, numeral system is decimal.
 
 Press buttons by order.
 
@@ -75,11 +81,11 @@ Press buttons by order.
 change to hex numeral
 `+B` = 15 (hex)
 - `26`
-In conversion list should display (No need to be exactly the same leading zero is acceptable)
+In conversion list should display: 
 HEX: 1A
 DEC: 26
 OCT: 32
-BIN: 11010
+BIN: 00011010
 - `6`
 change to oct numeral
 `+7` = 15 (oct)
