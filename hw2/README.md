@@ -6,7 +6,7 @@ In previous homework, we implement two different color themes.
 
 In this homework, just choose the theme you like.
 
-If you have any concern about spec, you could refer to Windows10's Programmer calculator.
+If you have concern about functionality, you could take a look of Windows10's Programmer calculator.
 
 # Grading policy
 
@@ -42,7 +42,6 @@ If the number is -1, you should display FFFF in the hex.
 
 - Clear `C` `CE` [5]
 
-If you have concern about functionality, you could take a look of Windows calculator.
 
 # Submission
 
