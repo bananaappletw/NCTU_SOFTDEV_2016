@@ -6,7 +6,7 @@ In previous homework, we implement two different color themes.
 
 In this homework, just choose the theme you like.
 
-If you have any concern about spec, you could refer Windows10's Programmer calculator.
+If you have any concern about spec, you could refer to Windows10's Programmer calculator.
 
 # Grading policy
 
